@@ -104,16 +104,13 @@ body p {
 /*corpo do do texto*/
 main {
    
-    width: 800px;
+    
     background-color: rgb(196, 48, 196);
     margin: auto;
     padding-top: 50px;
 
 }
-main {
-    min-width: 300px;
-    max-width: 1000px;
-}
+
 
 /*corpo do flex-box*/
  article h1{
